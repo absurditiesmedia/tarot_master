@@ -1,6 +1,9 @@
-# Tarot Program
+# Tarot Master
 
-This is a command-line tarot program that can analyze tarot readings and act as a training game.
+At preent this is a command-line tarot program that can analyze tarot readings with plans to expand the functionality as described in the TODO list below and more.
+
+
+
 
 ## Setup
 
