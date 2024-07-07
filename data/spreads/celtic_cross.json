@@ -1,0 +1,52 @@
+[
+  { 
+    "name":"The Querent", 
+    "short_description":"The person asking the question or significant relation of them.", 
+    "long_description":"This card indicates the person in question. While it's typically the person being read for, sometimes messages come through that refer to someone in the Querent's life. If the person being read for doesn't think this card's meanings apply to them, it's possible that it may be a loved one or someone who is close to them professionally. "
+  },
+  {
+    "name":"The Situation",
+    "short_description":"Situation at hand or potential situation.",
+    "long_description":"This card indicates the situation at hand or the potential situation. Bear in mind that the card may not relate to the question the Querent is asking, but rather the one they should have asked. This card usually shows that there is either a possibility for a solution or obstacles on the way. If there is a challenge to be faced, this is often where it will turn up. "
+  },
+  {
+    "name":"The Foundation ",
+    "short_description":"Foundational past influences on the situation",
+    "long_description":"This card indicates factors that are behind the Querent, usually influences from the distant past. Think of this card as a foundation that the situation may be built upon. "
+  },
+    {
+    "name":"The Recent Past",
+    "short_description":"Recent influences on the situation",
+    "long_description":"This card indicates events and influences that are more recent. This card is often connected to Card 3, but not always. As an example, if Card 3 indicated financial problems, Card 4 might show the Querent has filed for bankruptcy or lost their job. On the other hand, if the reading is generally positive, Card 4 might instead reflect happy events that have taken place recently. "
+  },
+    {
+    "name":"Short-Term Outlook",
+    "short_description":"Events to expect in the next few months.",
+    "long_description":"This card indicates events that are likely to take place in the near future - generally within the next few months. It shows how the situation is going to develop and unfold, if things progress on their present course, over the short-term. "
+  },
+    {
+    "name":"Present State of the Problem",
+    "short_description":"Whether the querent is on their way to a solution or not",
+    "long_description":"This card indicates whether the situation is on its way towards a resolution, or has stagnated. Bear in mind that this is not a conflict with Card 2, which simply lets us know whether there is a solution or not. Card 6 shows us where the Querent is in relation to the future outcome. "
+  },
+ {
+    "name":"Outside Influences",
+    "short_description":"How much are the querent's relations influencing the situation",
+    "long_description":"How do the Querent's friends and family feel about the situation? Are there people other than the Querent who are in control? This card indicates external influences that may have an effect on the desired outcome. Even if these influences don't affect the outcome, they should be considered when decision-making time rolls around. "
+  },
+ {
+    "name":"Internal Influences",
+    "short_description":"What are the querent's true feelings? Compare and contrast with card 1",
+    "long_description":"What is the Querent's true feeling about the situation? How does he or she really want things to resolve? Inner feelings have a strong influence on our actions and behaviors. Look at Card 1, and compare the two–are there contrasts and conflicts between them? It's possible that the Querent's own subconscious is working against him. For example, if the reading relates to a question of a love affair, the Querent might truly want to be with her lover, but also feels she should try to work things out with her husband. "
+  },
+   {
+    "name":"Hopes and Fears",
+    "short_description":"Often hopes and fears are conflicted, where we hope for the very thing we fear. Compare and contrast with card 8",
+    "long_description":"While this isn't exactly the same as the previous card, Card 9 is very similar in aspect to Card 8. Our hopes and fears are often conflicted, and at times we hope for the very thing we are afraid of. In the example of the Querent torn between the lover and the husband, she may be hoping that her husband finds out about the affair and leaves her because this lifts the burden of responsibility from her. At the same time, she may fear his finding out. "
+  },
+     {
+    "name":" Long-Term Outcome",
+    "short_description":"The likely long term resolution to the issue.",
+    "long_description":"This card reveals the likely long-term resolution of the issue. Often, this card represents the culmination of the other nine cards put together. The results of this card are usually seen over the course of several months to a year if all involved stay on their present course. If this card turns up and seems vague or ambiguous, pull one or two more cards, and look at them in the same position. They may all join together to provide you with the answer you need. "
+  }
+]
